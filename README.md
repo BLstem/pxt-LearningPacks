@@ -12,5 +12,6 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-LP=github:BLstem/LearningPacks
+LP=github:BLstem/pxt-LearningPacks
+
 ```
